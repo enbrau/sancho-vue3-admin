@@ -8,7 +8,7 @@
     "build:stage": "cross-env NODE_ENV=stage vite build --mode stage"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "dayjs": "^1.10.6",
     "lodash": "^4.17.21",
     "mitt": "^3.0.0",
